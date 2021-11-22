@@ -1,8 +1,7 @@
-//EX11
+//EX12
 
-var variable1 = undefined
-var variable2 = null
-console.log(variable1 + variable2)
+console.log(String(true))
+console.log(String + true)
 
 
 
