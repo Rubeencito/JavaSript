@@ -1,8 +1,8 @@
-//EX9
+//EX10
 
 var nom = 'Ruben Huertas Gonzalez'
-var caracter = nom.slice(5,12)
-console.log(caracter.length)
+var esborra = nom.replace('H','')
+console.log(esborra)
 
 
 
