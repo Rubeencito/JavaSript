@@ -1,17 +1,9 @@
-//EX3
+//EX4
 
-//VAR
-var variable1 = 'Adeu'
+let variable1 = 'Hola Adria!'
 console.log(variable1)
 
-var variable1 = 'Hola'
-console.log(variable1)
-
-//LET
-let variable1 = 'Adeu'
-console.log(variable1)
-
-variable1 = 'Hola'
+variable1 = 11
 console.log(variable1)
 
 
