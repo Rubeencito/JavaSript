@@ -1,11 +1,18 @@
-//EX2
+//EX3
+
+//VAR
+var variable1 = 'Adeu'
+console.log(variable1)
 
 var variable1 = 'Hola'
-let variable2 = 'Bones'
-const variable3 = 'Hello'
 console.log(variable1)
-console.log(variable2)
-console.log(variable3)
+
+//LET
+let variable1 = 'Adeu'
+console.log(variable1)
+
+variable1 = 'Hola'
+console.log(variable1)
 
 
 
