@@ -1,7 +1,7 @@
-//EX13
+//EX14
 
-console.log(Boolean('Hey company'))
-console.log(true || 'me gusta la pastanaga')
+console.log(Number(true))
+console.log(33 != true)
 
 
 
