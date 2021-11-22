@@ -1,8 +1,8 @@
-//EX10
+//EX11
 
-var nom = 'Ruben Huertas Gonzalez'
-var esborra = nom.replace('H','')
-console.log(esborra)
+var variable1 = undefined
+var variable2 = null
+console.log(variable1 + variable2)
 
 
 
