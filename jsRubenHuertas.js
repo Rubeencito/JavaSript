@@ -1,11 +1,12 @@
-//EX5
+//EX6
 
-const variable1 = '69'
-console.log(variable1)
+const BigInt = 5678;
+var num = 1234;
+console.log(num + BigInt)
+console.log(num - BigInt)
+console.log(num * BigInt)
+console.log(num / BigInt)
 
-const variable1 = '69'
-variable1 = 'professor'
-console.log(variable1)
 
 
 
