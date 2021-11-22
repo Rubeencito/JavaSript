@@ -1,7 +1,7 @@
-//EX12
+//EX13
 
-console.log(String(true))
-console.log(String + true)
+console.log(Boolean('Hey company'))
+console.log(true || 'me gusta la pastanaga')
 
 
 
