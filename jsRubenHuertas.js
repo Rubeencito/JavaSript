@@ -1,9 +1,10 @@
-//EX4
+//EX5
 
-let variable1 = 'Hola Adria!'
+const variable1 = '69'
 console.log(variable1)
 
-variable1 = 11
+const variable1 = '69'
+variable1 = 'professor'
 console.log(variable1)
 
 
