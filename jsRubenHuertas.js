@@ -1,8 +1,8 @@
-//EX7
+//EX8
 
-var catet1 = 4
-var catet2 = 4
-console.log(catet1*catet1 + catet2 *catet2)
+var num = 15
+var string = 'Hey que pasa'
+console.log(num/string)
 
 
 
