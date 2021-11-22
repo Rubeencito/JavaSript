@@ -1,8 +1,8 @@
-//EX8
+//EX9
 
-var num = 15
-var string = 'Hey que pasa'
-console.log(num/string)
+var nom = 'Ruben Huertas Gonzalez'
+var caracter = nom.slice(5,12)
+console.log(caracter.length)
 
 
 
