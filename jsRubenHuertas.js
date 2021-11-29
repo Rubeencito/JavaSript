@@ -1,7 +1,7 @@
-//EX14
+//EX1
 
-console.log(Number(true))
-console.log(33 != true)
+var nomCognom = ('Ruben Huertas Gonzalez')
+console.log(nomCognom)
 
 
 
